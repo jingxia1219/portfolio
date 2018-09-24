@@ -4114,7 +4114,8 @@ input, select, textarea {
 
 
 
-.uc-berkeley{
+a.uc-berkeley{
+	text-align: right;
 }
 span.bold {
 	color: yellow;
